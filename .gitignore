@@ -1,0 +1,24 @@
+# Compiled class files
+*.class
+
+# Maven-specific
+target/
+
+# Gradle-specific
+build/
+
+# Log files
+*.log
+
+# IDE / Editor-specific
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+
+# macOS-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
