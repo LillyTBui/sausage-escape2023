@@ -4,6 +4,8 @@ Sausage Escape is a platform game where you play as a dog escaping from a chef t
 
 This was a project in INF101 at the university of Bergen in 2023.
 
+![Game front page](./src/main/resources/gameFrontPage.png)
+
 ## How to play
 
 Run the program by clicking on the "Run" button in an IDE. Once the game is up and running, click 'PLAY' to start the game or 'HOW TO PLAY' to read the game instructions.
