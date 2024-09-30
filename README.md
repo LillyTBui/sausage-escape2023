@@ -1,6 +1,8 @@
 # Sausage Escape
 
-Sausage Escape is a platform game where you play as a dog escaping from a chef that wants to eat you. The only way to survive is to reach your home in the woods! This was a project in INF101 at the university of Bergen in 2023.
+Sausage Escape is a platform game where you play as a dog escaping from a chef that wants to eat you. The only way to survive is to reach your home in the woods!
+
+**This was a project in INF101 at the university of Bergen in 2023.**
 
 ## How to play
 
