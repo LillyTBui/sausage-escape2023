@@ -4,7 +4,7 @@ Sausage Escape is a platform game where you play as a dog escaping from a chef t
 
 This was a project in INF101 at the university of Bergen in 2023.
 
-![Game front page](./src/main/resources/gameFrontPage.png)
+<img src="./src/main/resources/gameFrontPage.png" alt="Sausage escape game frontpage" width="300">
 
 ## How to play
 
@@ -29,6 +29,10 @@ Reach the dog house to win!
 ## Link to video
 
 - [Game demo video] (https://www.youtube.com/watch?v=grYIgxAfV-g)
+
+## Assets
+
+- All screens and sprites were made by me.
 
 ## Acknowledgements
 
